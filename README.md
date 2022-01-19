@@ -12,7 +12,7 @@
 # TUTORIALS AND SAMPLES
 ``src/<componentfoldername>/<componentfilename.js>``
 1. displaytable / practice1 - displaying json data into the table.
-FOLDER PATH: ./src/practice1
+- FOLDER PATH: ./src/practice1
 
 2. Pending
 
