@@ -10,11 +10,11 @@
 2. https://reactjs.org/docs/create-a-new-react-app.html
 
 # TUTORIALS AND SAMPLES
-# src/<componentfoldername>/<componentfilename.js>
+``src/<componentfoldername>/<componentfilename.js>``
 1. displaytable / practice1 - displaying json data into the table.
 FOLDER PATH: ./src/practice1
 
 2. Pending
 
-# author
+# Author
 - sonny
